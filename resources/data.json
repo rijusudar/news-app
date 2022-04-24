@@ -1,0 +1,176 @@
+[
+  {
+    "catId": 1,
+    "catName": "LifeStyle",
+    "sections": [
+      {
+        "sectionId": 1,
+        "sectionName": "Fashion",
+        "hero": {
+          "heroId": 100,
+          "title": "KGF-2 actress Srinidhi Shetty stuns in a mint green anarkali",
+          "imgUrl": "https://static.toiimg.com/thumb/msid-90843047,width-800,height-600,resizemode-75,imgsize-128346,pt-32,y_pad-40/90843047.jpg"
+        },
+        "articles": [
+          {
+            "articleId": 201,
+            "articleTitle": "Janhvi Kapoor looks breathtaking as a bride"
+          },
+          {
+            "articleId": 202,
+            "articleTitle": "Rihanna redefines pregnancy fashion"
+          },
+          {
+            "articleId": 203,
+            "articleTitle": "Kangana shows off her edgy style"
+          },
+          {
+            "articleId": 204,
+            "articleTitle": "Kangana shows off her edgy style"
+          }
+        ]
+      },
+      {
+        "sectionId": 2,
+        "sectionName": "Travel",
+        "hero": {
+          "heroId": 101,
+          "title": "Switzerland all set to lift entry restrictions for travellers from May 2",
+          "imgUrl": "https://static.toiimg.com/photo/91026184/switzerland.jpg"
+        },
+        "articles": [
+          {
+            "articleId": 205,
+            "articleTitle": "Tourists will soon have to pre-book entry tickets to Venice"
+          },
+          {
+            "articleId": 206,
+            "articleTitle": "Pithoragarh to host adventure cycle soon"
+          },
+          {
+            "articleId": 207,
+            "articleTitle": "Easy hikes in India for beginners"
+          },
+          {
+            "articleId": 208,
+            "articleTitle": "Coming soon: 4 heliports in Uttar Pradesh for tourists"
+          }
+        ]
+      },
+      {
+        "sectionId": 3,
+        "sectionName": "Beauty",
+        "hero": {
+          "heroId": 102,
+          "title": "Hairstyle inspiration from Indian cricketers",
+          "imgUrl": "https://static.toiimg.com/thumb/msid-91046828,imgsize-,width-301,height-222,resizemode-75/91046828.jpg"
+        },
+        "articles": [
+          {
+            "articleId": 209,
+            "articleTitle": "Hairstyle inspiration from Malavika Mohanan"
+          },
+          {
+            "articleId": 210,
+            "articleTitle": "'Lock Upp' inmate Payal Rohatgi's beauty secrets"
+          },
+          {
+            "articleId": 211,
+            "articleTitle": "Alia Bhatt to Katrina Kaif: Hairstyles inspired by Bollywood bridess"
+          },
+          {
+            "articleId": 212,
+            "articleTitle": "Beauty trends shifting in order to cater to the conscious consumer"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "catId": 2,
+    "catName": "Entertainment",
+    "sections": [
+      {
+        "sectionId": 11,
+        "sectionName": "Movies",
+        "hero": {
+          "heroId": 103,
+          "title": "Emotional fans call out Akshay for going back on his word",
+          "imgUrl": "https://static.toiimg.com/thumb/msid-91048107,imgsize-115984,width-271,height-200/91048107.jpg"
+        },
+        "articles": [
+          {
+            "articleId": 213,
+            "articleTitle": "Animal: Ranbir, Rashmika return from Manali"
+          },
+          {
+            "articleId": 214,
+            "articleTitle": "Will Smith's pics prove he is 'desi' at hear..."
+          },
+          {
+            "articleId": 215,
+            "articleTitle": "Is Janhvi named after Urmila's character?"
+          },
+          {
+            "articleId": 216,
+            "articleTitle": "Tina shares Ranbir-Alia's unseen pic with fashion"
+          }
+        ]
+      },
+      {
+        "sectionId": 12,
+        "sectionName": "Television",
+        "hero": {
+          "heroId": 104,
+          "title": "Sayli Kamble gets married to BF Dhaval",
+          "imgUrl": "https://static.toiimg.com/thumb/msid-91050479,imgsize-123896,width-271,height-200/91050479.jpg"
+        },
+        "articles": [
+          {
+            "articleId": 217,
+            "articleTitle": "Aditya shares a new photo with baby Tvisha"
+          },
+          {
+            "articleId": 218,
+            "articleTitle": "Teejay's special anniv. post for husband KVB"
+          },
+          {
+            "articleId": 219,
+            "articleTitle": "Dilip Joshi, Johnny Lever at Rakesh Bedi's begins"
+          },
+          {
+            "articleId": 220,
+            "articleTitle": "Aashika's stunning transformation; in pics"
+          }
+        ]
+      },
+      {
+        "sectionId": 13,
+        "sectionName": "Lifestyle",
+        "hero": {
+          "heroId": 105,
+          "title": "Saris, bralettes: Here's refashioning masculinity",
+          "imgUrl": "https://static.toiimg.com/thumb/msid-91037079,imgsize-102764,width-271,height-200/91037079.jpg"
+        },
+        "articles": [
+          {
+            "articleId": 221,
+            "articleTitle": "How zodiacs behave as a student"
+          },
+          {
+            "articleId": 222,
+            "articleTitle": "Signs your body needs to detox"
+          },
+          {
+            "articleId": 223,
+            "articleTitle": "Expensive things owned by Ranbir and Alia"
+          },
+          {
+            "articleId": 224,
+            "articleTitle": "Akash & Shloka Ambani’s love story!"
+          }
+        ]
+      }
+    ]
+  }
+]
